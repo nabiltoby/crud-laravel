@@ -1,0 +1,36 @@
+.home-container {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.banner-image {
+    width: 100%;
+    height: auto;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.welcome-text h1 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.product-item {
+    width: 30%;
+}
+
+.product-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
